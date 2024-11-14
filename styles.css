@@ -101,6 +101,7 @@ a:hover{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
+  margin-bottom: 15px;
 }
 
 /* Mobile styles */
@@ -136,5 +137,8 @@ a:hover{
   .right-text {
     grid-column: auto;
     margin: 10px auto;
+  }
+  #pinned-bottom-left-page{
+    display: none;
   }
 }
