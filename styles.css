@@ -106,6 +106,9 @@ a:hover{
 
 /* Mobile styles */
 @media (max-width: 768px) {
+  body{
+    font-size: 20px;
+  }
   .container {
     grid-template-columns: 1fr;
   }
