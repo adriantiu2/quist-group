@@ -7,7 +7,7 @@
 
 body {
   font-family: Helvetica,Arial, sans-serif;
-  font-size: 25px;
+  font-size: 18px;
 }
 
 a {
@@ -107,7 +107,7 @@ a:hover{
 /* Mobile styles */
 @media (max-width: 768px) {
   body{
-    font-size: 20px;
+    font-size: 16px;
   }
   .container {
     grid-template-columns: 1fr;
